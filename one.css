@@ -28,7 +28,7 @@ nav ul{
 nav li{
     font-size: 1.6rem;
     list-style-type: none;
-    font-family: Cardo, Times New Roman, Times, serif;
+    font-family: Cardo, "Times New Roman", Times, serif;
 }
 nav li>a{
     display: block;
@@ -44,7 +44,7 @@ nav li>a:active{
 p{
     font-size: 1.414rem;
     padding:0.5rem 2rem;
-    font-family: Cardo, Times New Roman, Times, serif;
+    font-family: Cardo, "Times New Roman", Times, serif;
 }
 main p:last-child{
     padding-bottom: 4rem;
